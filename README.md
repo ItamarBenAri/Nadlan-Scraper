@@ -4,7 +4,7 @@
 
 This project is a Node.js-based application that uses Puppeteer for web scraping real estate data from [nadlan.gov.il](https://www.nadlan.gov.il/). It automates data extraction for cities and their respective properties, processing the results and saving them into structured JSON files for further use. The data collection spans 10 years, from the beginning of 2013 to the middle of 2024.
 
-This project is part of a larger AI initiative aimed at analyzing the rise in housing prices across different regions in Israel over the past decade. Ultimately, the model will predict future property values for the next 1, 2, or even up to 10 years, providing insights into real estate trends and price forecasts.
+This project is part of a larger **AI initiative** aimed at analyzing the rise in housing prices across different regions in Israel over the past decade. Ultimately, the model will predict future property values for the next 1, 2, or even up to 10 years, providing insights into real estate trends and price forecasts.
 
 ## Features
 - **City Data Filtering**: The service allows you to filter cities by their ID range.
